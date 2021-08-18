@@ -13,9 +13,9 @@
 -->
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Vicente</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Full Stack Developer (.NET C#)</h3>
 
-- 🔭 I’m currently working on [Norus]https://www.norus.com.br/)
+- 🔭 I’m currently working on [Norus Tecnologia](https://www.norus.com.br)
 
 - 📫 How to reach me **pablo.vicente@outlook.com.br**
 
