@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Norus]https://www.norus.com.br/)
 
-- 📫 How to reach me **pablo.vicente@outlook.com.br*
+- 📫 How to reach me **pablo.vicente@outlook.com.br**
 
 - ⚡ Fun fact **Oneye 😜**
 
@@ -36,5 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="20" height="20"/>
-<img src="https://github-readme-stats.vercel.app/api?username=pablo-vicente&show_icons=true"/> 
 </p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pablo-vicente&show_icons=true"/> 
+</div>
